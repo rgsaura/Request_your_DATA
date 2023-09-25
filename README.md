@@ -82,7 +82,7 @@ Following the GDPR law all your companies are mandated to give you the data they
 
 ## Streaming
 
-* [Netflix](https://www.netflix.com/account/getmyinfo) - request copy of your personal data on Netflix
+I recommend [trakt.tv](trakt.tv) and it's chrome extension to track your viewing history across your popular entertainment platforms (Netflix, Prime, HBO...). This extension automatically collects all the information not easily accesable and gives you an easy way to download your data.
 
 ## Other services
 
